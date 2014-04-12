@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BlueDemon()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ touchingBullet()
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\n\ Move\ one\ cell\ forward\ in\ the\ current\ direction.\n
+comment4.params=
+comment4.target=boolean\ canMove()
+comment4.text=\n\ Test\ if\ we\ can\ move\ forward.\ Return\ true\ if\ we\ can,\ false\ otherwise.\n
+comment5.params=
+comment5.target=void\ turnWest()
+comment5.text=\n\ Turns\ towards\ the\ left.\n
+comment6.params=direction
+comment6.target=void\ setDirection(int)
+comment6.text=\n\ Sets\ the\ direction\ we're\ facing.\ The\ 'direction'\ parameter\ must\n\ be\ in\ the\ range\ [0..3].\n
+numComments=7

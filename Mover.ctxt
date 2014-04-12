@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=angle
+comment0.target=void\ turn(int)
+comment0.text=\n\ Turn\ 'angle'\ degrees\ towards\ the\ right\ (clockwise).\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\n\ Move\ a\ bit\ forward\ in\ the\ current\ direction.\n
+comment2.params=distance
+comment2.target=void\ move(double)
+comment2.text=\n\ Move\ a\ specified\ distance\ forward\ in\ the\ current\ direction.\n
+numComments=3
